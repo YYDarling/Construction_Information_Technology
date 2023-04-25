@@ -1,4 +1,4 @@
-# COSC642_Construction_Information_Technology
+# Construction_Information_Technology
 This is Yun Course Project of Construction Information Technology 
 
 (1) See the details of Project Plan:
