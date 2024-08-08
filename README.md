@@ -3,11 +3,11 @@ This is Yun Course Project of Construction Information Technology
 
 #### See the details of Project Plan:
 
-YouTube Link : https://youtu.be/nF_peDTqIy4
++ YouTube Link : https://youtu.be/nF_peDTqIy4
 
 #### See the details of Project Report:
 
-YouTube Link : https://youtu.be/7tEU35GXp6c
++ YouTube Link : https://youtu.be/7tEU35GXp6c
 
 
 ## 项目经验：太阳能热水器供应商应用程序
