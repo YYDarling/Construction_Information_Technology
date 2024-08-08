@@ -1,5 +1,5 @@
 # Construction_Information_Technology
-This is Yun Course Project of Construction Information Technology 
+This is Yun's Course Project of Construction Information Technology 
 
 #### See the details of Project Plan:
 
